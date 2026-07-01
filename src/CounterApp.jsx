@@ -10,7 +10,11 @@ const CounterApp = () => {
         setCount(count+1)
     }
   return (
-    <div>CounterApp</div>
+    <div>
+      <h1>
+        CounterApp
+        </h1>
+      </div>
   )
 }
 

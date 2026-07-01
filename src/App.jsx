@@ -1,5 +1,6 @@
 
 import './App.css'
+import CounterApp from './CounterApp'
 import DifferenceCounter from './DifferenceCounter'
 import Sum from './Sum'
 
@@ -10,6 +11,7 @@ function App() {
     <>
       <Sum/>
       <DifferenceCounter/>
+      <CounterApp/>
     </>
   )
 }
